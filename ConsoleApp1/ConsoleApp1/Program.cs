@@ -129,7 +129,39 @@ namespace ConsoleApp1
                     Console.WriteLine("MegaPrimeNumber");
                 }
             }*/
+            String fullname = Console.ReadLine();
+            String [] arr = fullname.Split(' ');
+            int len = arr.Length;
+            //foreach(String name in arr)
+            //{
+            //    Console.WriteLine(name);
+            //}
+            if (len == 1)
+            {
+                Console.WriteLine(arr[0]);
+                Console.WriteLine(arr[0]);
+                Console.WriteLine(arr[0].ToUpper());
+            }
+            else if (len == 2)
+            {
+                String first_name = arr[0];
+                var first_initial = first_name[0];
+                Console.WriteLine(first_initial+". "+arr[1]);
+                Console.WriteLine(arr[1]+", "+arr[0]);
+                Console.WriteLine(first_initial+" "+arr[1].ToUpper());
 
+            }
+            else if (len == 3)
+            {
+                String first_name = arr[0];
+                var first_initial = first_name[0];
+                String last_name = arr[2];
+                var last_initial = last_name[0];
+                Console.WriteLine(first_initial+". "+arr[1][0]+". "+last_name);
+                Console.WriteLine(last_name+", "+first_name+" "+arr[1]);
+                Console.WriteLine(first_initial + " " + arr[1][0] + " " + last_name.ToUpper());
+
+            }
             Console.ReadLine();
         }
     }
