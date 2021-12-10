@@ -1,0 +1,11 @@
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.deps.json
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.json
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.dll
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.pdb
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfo.cs
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.dll
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.pdb
