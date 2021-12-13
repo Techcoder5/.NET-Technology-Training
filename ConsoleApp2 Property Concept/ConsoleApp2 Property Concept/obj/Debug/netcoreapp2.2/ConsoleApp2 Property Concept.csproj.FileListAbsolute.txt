@@ -1,0 +1,10 @@
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Property Concept\ConsoleApp2 Property Concept\bin\Debug\netcoreapp2.2\ConsoleApp2 Property Concept.deps.json
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Property Concept\ConsoleApp2 Property Concept\bin\Debug\netcoreapp2.2\ConsoleApp2 Property Concept.runtimeconfig.json
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Property Concept\ConsoleApp2 Property Concept\bin\Debug\netcoreapp2.2\ConsoleApp2 Property Concept.runtimeconfig.dev.json
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Property Concept\ConsoleApp2 Property Concept\bin\Debug\netcoreapp2.2\ConsoleApp2 Property Concept.dll
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Property Concept\ConsoleApp2 Property Concept\bin\Debug\netcoreapp2.2\ConsoleApp2 Property Concept.pdb
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Property Concept\ConsoleApp2 Property Concept\obj\Debug\netcoreapp2.2\ConsoleApp2 Property Concept.csproj.CoreCompileInputs.cache
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Property Concept\ConsoleApp2 Property Concept\obj\Debug\netcoreapp2.2\ConsoleApp2 Property Concept.AssemblyInfoInputs.cache
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Property Concept\ConsoleApp2 Property Concept\obj\Debug\netcoreapp2.2\ConsoleApp2 Property Concept.AssemblyInfo.cs
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Property Concept\ConsoleApp2 Property Concept\obj\Debug\netcoreapp2.2\ConsoleApp2 Property Concept.dll
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Property Concept\ConsoleApp2 Property Concept\obj\Debug\netcoreapp2.2\ConsoleApp2 Property Concept.pdb

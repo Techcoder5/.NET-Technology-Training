@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2 Polymorphism", "ConsoleApp2 Polymorphism\ConsoleApp2 Polymorphism.csproj", "{61A1A854-20D2-4F61-B0D9-ADB5B7845CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A1A854-20D2-4F61-B0D9-ADB5B7845CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A1A854-20D2-4F61-B0D9-ADB5B7845CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A1A854-20D2-4F61-B0D9-ADB5B7845CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A1A854-20D2-4F61-B0D9-ADB5B7845CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DC11040-274B-494A-A0AC-1D347AE5C2EF}
+	EndGlobalSection
+EndGlobal

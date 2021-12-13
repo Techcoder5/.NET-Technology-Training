@@ -101,7 +101,7 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Number is ODD");
             }*/
-            /*int num = Convert.ToInt32(Console.ReadLine());
+            int num = Convert.ToInt32(Console.ReadLine());
             if (checkPrime(num) == false)
             {
                 Console.WriteLine("Not a MegaPrimeNumber");
@@ -128,8 +128,8 @@ namespace ConsoleApp1
                 {
                     Console.WriteLine("MegaPrimeNumber");
                 }
-            }*/
-            String fullname = Console.ReadLine();
+            }
+           /* String fullname = Console.ReadLine();
             String [] arr = fullname.Split(' ');
             int len = arr.Length;
             //foreach(String name in arr)
@@ -151,7 +151,7 @@ namespace ConsoleApp1
                 Console.WriteLine(first_initial+" "+arr[1].ToUpper());
 
             }
-            else if (len == 3)
+            else
             {
                 String first_name = arr[0];
                 var first_initial = first_name[0];
@@ -161,7 +161,7 @@ namespace ConsoleApp1
                 Console.WriteLine(last_name+", "+first_name+" "+arr[1]);
                 Console.WriteLine(first_initial + " " + arr[1][0] + " " + last_name.ToUpper());
 
-            }
+            }*/
             Console.ReadLine();
         }
     }

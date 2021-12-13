@@ -1,0 +1,10 @@
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Abstract Class\ConsoleApp2 Abstract Class\bin\Debug\netcoreapp2.2\ConsoleApp2 Abstract Class.deps.json
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Abstract Class\ConsoleApp2 Abstract Class\bin\Debug\netcoreapp2.2\ConsoleApp2 Abstract Class.runtimeconfig.json
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Abstract Class\ConsoleApp2 Abstract Class\bin\Debug\netcoreapp2.2\ConsoleApp2 Abstract Class.runtimeconfig.dev.json
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Abstract Class\ConsoleApp2 Abstract Class\bin\Debug\netcoreapp2.2\ConsoleApp2 Abstract Class.dll
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Abstract Class\ConsoleApp2 Abstract Class\bin\Debug\netcoreapp2.2\ConsoleApp2 Abstract Class.pdb
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Abstract Class\ConsoleApp2 Abstract Class\obj\Debug\netcoreapp2.2\ConsoleApp2 Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Abstract Class\ConsoleApp2 Abstract Class\obj\Debug\netcoreapp2.2\ConsoleApp2 Abstract Class.AssemblyInfoInputs.cache
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Abstract Class\ConsoleApp2 Abstract Class\obj\Debug\netcoreapp2.2\ConsoleApp2 Abstract Class.AssemblyInfo.cs
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Abstract Class\ConsoleApp2 Abstract Class\obj\Debug\netcoreapp2.2\ConsoleApp2 Abstract Class.dll
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Abstract Class\ConsoleApp2 Abstract Class\obj\Debug\netcoreapp2.2\ConsoleApp2 Abstract Class.pdb

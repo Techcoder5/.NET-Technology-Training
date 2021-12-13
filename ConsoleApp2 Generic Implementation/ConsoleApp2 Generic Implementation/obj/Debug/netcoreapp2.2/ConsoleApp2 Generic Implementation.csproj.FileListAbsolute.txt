@@ -1,0 +1,10 @@
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Generic Implementation\ConsoleApp2 Generic Implementation\bin\Debug\netcoreapp2.2\ConsoleApp2 Generic Implementation.deps.json
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Generic Implementation\ConsoleApp2 Generic Implementation\bin\Debug\netcoreapp2.2\ConsoleApp2 Generic Implementation.runtimeconfig.json
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Generic Implementation\ConsoleApp2 Generic Implementation\bin\Debug\netcoreapp2.2\ConsoleApp2 Generic Implementation.runtimeconfig.dev.json
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Generic Implementation\ConsoleApp2 Generic Implementation\bin\Debug\netcoreapp2.2\ConsoleApp2 Generic Implementation.dll
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Generic Implementation\ConsoleApp2 Generic Implementation\bin\Debug\netcoreapp2.2\ConsoleApp2 Generic Implementation.pdb
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Generic Implementation\ConsoleApp2 Generic Implementation\obj\Debug\netcoreapp2.2\ConsoleApp2 Generic Implementation.csproj.CoreCompileInputs.cache
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Generic Implementation\ConsoleApp2 Generic Implementation\obj\Debug\netcoreapp2.2\ConsoleApp2 Generic Implementation.AssemblyInfoInputs.cache
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Generic Implementation\ConsoleApp2 Generic Implementation\obj\Debug\netcoreapp2.2\ConsoleApp2 Generic Implementation.AssemblyInfo.cs
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Generic Implementation\ConsoleApp2 Generic Implementation\obj\Debug\netcoreapp2.2\ConsoleApp2 Generic Implementation.dll
+C:\Users\unthinkable-lap-0207\source\repos\ConsoleApp2 Generic Implementation\ConsoleApp2 Generic Implementation\obj\Debug\netcoreapp2.2\ConsoleApp2 Generic Implementation.pdb
