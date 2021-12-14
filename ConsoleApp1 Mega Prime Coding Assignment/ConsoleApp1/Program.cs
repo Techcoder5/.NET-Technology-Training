@@ -49,58 +49,6 @@ namespace ConsoleApp1
         }*/
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!");
-            //int a = 78;//boxing concept
-            //object ob = a;
-            //a = 9;
-            //Console.WriteLine(a);
-            //Console.WriteLine(ob);
-            /*int val = 89;
-            passbyvalue(val);//if we simply write here as passnyvalue function then it would give error as the function declared above is instance and hence either we should declare that method as static or create the obejct of the class here//
-            Console.WriteLine(val);
-            int c1 = 20;
-            Program.passbyref(ref c1);
-            Console.WriteLine(c1);
-            int e;
-            passbyout(out e);
-            Console.WriteLine(e);*/
-
-            //int[] a = new int[5] { 1,2,3,4,5};
-            //foreach(int i in a)
-            /*{
-                Console.WriteLine(i);
-            }*/
-            //Multi Dimension Array//
-            /*int[,] numbers1 = new int[3, 2] { { 1, 2 }, { 3, 4 }, { 5, 6 } };
-            string[,] names = new string[2, 2] { { "Rosy", "Amy" }, { "Peter", "Albert" } };*/
-            //without using new opeartor
-            //int[,] a1 = { { 1, 2 }, { 3, 4 } };
-            //int[,] numbers = new int[3, 2];
-            //numbers[0, 0] = 1;
-            //numbers[1, 0] = 2;
-            //numbers[2, 0] = 3;
-            //numbers[0, 1] = 4;
-            //numbers[1, 1] = 5;
-            //numbers[2, 1] = 6;
-            //Accessing array elements of multi dimension array//
-            //Console.WriteLine(numbers[0, 0]);
-            //Console.WriteLine(numbers[0, 1]);
-            //Console.WriteLine(numbers[1, 0]);
-            //Console.WriteLine(numbers[1, 1]);
-            //Console.WriteLine(numbers[2, 0]);
-            //Console.WriteLine(numbers[2, 2]);//gives index out of range//
-            //Jagged aray concept//
-            //int[][] intJaggedArray = new int[3][];
-            /*int num = Convert.ToInt32(Console.ReadLine());
-             * 
-            if (num % 2 == 0)
-            {
-                Console.WriteLine("Number is Even");
-            }
-            else
-            {
-                Console.WriteLine("Number is ODD");
-            }*/
             int num = Convert.ToInt32(Console.ReadLine());
             if (checkPrime(num) == false)
             {
