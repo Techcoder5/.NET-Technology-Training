@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Type Casting\\Type Casting\\Type Casting.csproj": {}
+    "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Day 2 BASIC SYNTAX OF C#\\Type Casting\\Type Casting\\Type Casting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Type Casting\\Type Casting\\Type Casting.csproj": {
+    "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Day 2 BASIC SYNTAX OF C#\\Type Casting\\Type Casting\\Type Casting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Type Casting\\Type Casting\\Type Casting.csproj",
+        "projectUniqueName": "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Day 2 BASIC SYNTAX OF C#\\Type Casting\\Type Casting\\Type Casting.csproj",
         "projectName": "Type Casting",
-        "projectPath": "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Type Casting\\Type Casting\\Type Casting.csproj",
+        "projectPath": "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Day 2 BASIC SYNTAX OF C#\\Type Casting\\Type Casting\\Type Casting.csproj",
         "packagesPath": "C:\\Users\\unthinkable-lap-0207\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Type Casting\\Type Casting\\obj\\",
+        "outputPath": "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Day 2 BASIC SYNTAX OF C#\\Type Casting\\Type Casting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",

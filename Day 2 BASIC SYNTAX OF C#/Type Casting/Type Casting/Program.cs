@@ -25,6 +25,14 @@ namespace Type_Casting
             Console.WriteLine(Convert.ToDouble(myInt));    
             Console.WriteLine(Convert.ToInt32(myDouble));
             Console.WriteLine(Convert.ToString(myBool));
+
+            //Type of and Get type command//
+            Console.WriteLine(typeof(int));
+
+            int val = 4566;
+            Console.WriteLine(val.GetType());
+            bool flag = false;
+            Console.WriteLine(flag.GetType());
         }
     }
 }
