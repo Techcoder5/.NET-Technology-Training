@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Array Functions\\Array Functions\\Array Functions.csproj": {}
+    "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Day 2 BASIC SYNTAX OF C#\\Array Functions\\Array Functions\\Array Functions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Array Functions\\Array Functions\\Array Functions.csproj": {
+    "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Day 2 BASIC SYNTAX OF C#\\Array Functions\\Array Functions\\Array Functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Array Functions\\Array Functions\\Array Functions.csproj",
+        "projectUniqueName": "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Day 2 BASIC SYNTAX OF C#\\Array Functions\\Array Functions\\Array Functions.csproj",
         "projectName": "Array Functions",
-        "projectPath": "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Array Functions\\Array Functions\\Array Functions.csproj",
+        "projectPath": "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Day 2 BASIC SYNTAX OF C#\\Array Functions\\Array Functions\\Array Functions.csproj",
         "packagesPath": "C:\\Users\\unthinkable-lap-0207\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Array Functions\\Array Functions\\obj\\",
+        "outputPath": "C:\\Users\\unthinkable-lap-0207\\source\\repos\\Day 2 BASIC SYNTAX OF C#\\Array Functions\\Array Functions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
