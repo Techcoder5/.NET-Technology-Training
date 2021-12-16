@@ -17,6 +17,7 @@ namespace MVC_APPLICATION_CONTROLLERS
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                //defaults: new { controller = "Employee", action = "Index", emp_id= emp_i };
             );
         }
     }
