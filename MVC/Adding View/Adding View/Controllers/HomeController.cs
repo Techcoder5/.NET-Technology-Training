@@ -11,9 +11,13 @@ namespace Adding_View.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            return View();
+            return View("~/View/Updated/Updated");
         }
         public ActionResult About()
+        {
+            return View();
+        }
+        public ActionResult without_view()
         {
             return View();
         }
